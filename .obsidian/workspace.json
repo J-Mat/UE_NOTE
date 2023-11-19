@@ -11,9 +11,11 @@
             "id": "aa69c71796d2fee4",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "RHI Diagram.svg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RHI Diagram.svg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RHI Diagram.svg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RHI Diagram.svg"
+                "file": "README.md"
               }
             }
           }
@@ -145,5 +147,14 @@
     }
   },
   "active": "aa69c71796d2fee4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "RHI Diagram.svg",
+    "README.md",
+    "image/README/1700407014677.png",
+    "image/README/1700406932998.png",
+    "image/README/1700406871803.png",
+    "image/README/1700406792736.png",
+    "image/README",
+    "image"
+  ]
 }
