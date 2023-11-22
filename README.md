@@ -2,7 +2,18 @@
 
 UnrealEngine's RHI note
 
-## How to use it
+## How to use it 
+
+Open **VSCode** and install the plugin
+
+![1700661778563](image/README/1700661778563.png)
+
+Open it
+
+![1700661875689](image/README/1700661875689.png)
+
+
+## Another way may get better  operating experience to open the UML pic
 
 ### Step 1
 
@@ -10,7 +21,7 @@ git clone [J-Mat/RHI_UML: UnrealEngine&#39;s RHI note (github.com)](https://gith
 
 ### Step 2
 
-Download Obsidian 
+Download Obsidian
 
 [Obsidian - Sharpen your thinking](https://obsidian.md/)
 
@@ -31,7 +42,6 @@ Open it!
 ![1700406932998](image/README/1700406932998.png)
 
 Click the EditMode
-
 
 ## Enjoy it !
 
