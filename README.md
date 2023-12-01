@@ -1,6 +1,6 @@
-# RHI_UML
+# UE_NOTE
 
-UnrealEngine's RHI note
+UnrealEngine's source code UML note
 
 ## How to use it
 
